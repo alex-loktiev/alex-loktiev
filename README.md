@@ -5,7 +5,6 @@
 # :bar_chart: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alex-loktiev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alex-loktiev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-loktiev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### :writing_hand: Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
